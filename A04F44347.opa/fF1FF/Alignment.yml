@@ -1,0 +1,22 @@
+segment_sources:
+  I34E824B4:
+    type: origin_type
+    relation: translation
+    language: en
+  I98C0D204:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e3ce8d077e8a4c5d84da6beccacc1b38:
+    I34E824B4: 6d7698f6b63b44a2bc601b4f2ef6f088
+    I98C0D204: 37af3fa9368d481bba1966c013aae972
+  d2244404afb34a6cb4131a9b5a46e59b:
+    I34E824B4: ad860909c7914995a14aa0d36e0048cf
+    I98C0D204: e121d98630dd400ca0aec64b92d0e2e2
+  c28bb00f47a8467aafa3e6662d3a4f31:
+    I34E824B4: 00fc535166fa45c99b150bb99c5de994
+    I98C0D204: 201a6469ffdc4115b15ff050c648cf4b
+  37e44f54c7c245dab7d2e4d1b7ce45de:
+    I34E824B4: dd74b30a0cfd4ed29372f55db93e088f
+    I98C0D204: b1b753e1df4246109d5dbacfe4cb4e7f
